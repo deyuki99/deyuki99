@@ -1,4 +1,7 @@
 <h1>About deyuki</h1>
+<a href="https://deyuki.cn/zh-CN" target="_blank">
+<img src="https://deyuki.cn/images/oc.jpg" alt="替代文本" width="300" height="300" />
+</a>
 
 <p>💌 欢迎来到 <strong>deyuki</strong> 的 GitHub 仓库！这是一个个人项目的仓库，记录了我学习与探索的点滴。</p>
 
